@@ -1,6 +1,8 @@
 # clabby-classifier ☘️
 Deploys a trained PyTorch image classification model with Flask and FloydHub.
 
+![app](https://imgur.com/Th95FTa)
+
 ## Deployment Steps
 
 ```bash
